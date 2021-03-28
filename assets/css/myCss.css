@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.logo{
+    font-family: 'Great Vibes', cursive !important;
+    text-transform: none !important;
+}
+
+
+.social_media_links {
+    text-align: center;
+    margin-left: 1.5rem;
+  }
+  
+  
+ .social_media_links ul li {
+    display: inline-block;
+  }
+  
+  .social_media_links ul li a {
+
+    color: #8b8b8b;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    margin: 0 3px;
+   
+  }
+  
+ .social_media_links ul li a:hover {
+    color: white;
+  }
+
+  
