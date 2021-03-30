@@ -593,9 +593,12 @@ section {
 }
 
 .about .image {
-  background: url("../img/about.jpg") center center no-repeat;
-  background-size: cover;
-  min-height: 400px;
+  background: url("/assets/img/gaby3.jpg") no-repeat;
+  background-size:cover;
+  min-height: 580px;
+  border-radius: 6px
+  
+  
 }
 
 @media (max-width: 991px) {
